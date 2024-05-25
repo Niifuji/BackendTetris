@@ -1,0 +1,14 @@
+﻿  block.cpp
+E:\Edit Resource\BackendTetris\BackendTetris\block.cpp(55,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Edit Resource\BackendTetris\BackendTetris\block.cpp(63,34): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+E:\Edit Resource\BackendTetris\BackendTetris\block.cpp(71,34): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+E:\Edit Resource\BackendTetris\BackendTetris\block.cpp(80,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+x64\Release\font.obj : warning LNK4042: object specified more than once; extras ignored
+  Generating code
+  10 of 489 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BackendTetris.vcxproj -> E:\Edit Resource\BackendTetris\x64\Release\BackendTetris.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
